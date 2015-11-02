@@ -1,0 +1,5 @@
+22-NOV-2011 18:42:11.000
+
+Finite state automaton
+
+null

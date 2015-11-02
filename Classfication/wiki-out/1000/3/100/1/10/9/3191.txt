@@ -1,0 +1,5 @@
+22-SEP-2003 21:39:00.000
+
+Integral data types
+
+null

@@ -1,0 +1,5 @@
+16-OCT-2003 22:15:47.000
+
+Generating a vector space
+
+null

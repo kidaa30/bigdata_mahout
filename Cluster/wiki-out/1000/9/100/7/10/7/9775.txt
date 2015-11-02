@@ -1,0 +1,5 @@
+04-AUG-2010 08:38:47.000
+
+Pure qubit state
+
+null
